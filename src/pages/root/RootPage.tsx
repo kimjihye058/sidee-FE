@@ -3,7 +3,7 @@ import styled from "styled-components";
 export default function RootPage() {
     return (
         <RootDiv>
-            <RootImg src="../public/img/rogo.png" alt="" />
+            <RootImg src="/img/favicon.png" alt="" />
             <RootP>Sidee에서 함께할 팀원과 아이디어를 찾고 기록하며 성장하세요!</RootP>
             <RootBtn>시작하기</RootBtn>
         </RootDiv>
